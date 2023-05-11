@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title> My favoutrite sports</title>
+    </head>
+    <body>
+        <h2>My favourite Sports</h2><br>
+        <p> My favorite sports is Cricket</p>
+        <b>Here is a list of my favouriteplayers of Cricket: </b><br>
+        <ul>
+            <li>Mahendra Singh Dhoni</li>
+            <li>Kapil Dev</li>
+            <li>Sachin Tendulkar</li>
+            <li>Rahul Dravid</li>
+            <li>Wasim Akram</li>
+            <li>Shane Warne</li>
+            <li>Brian Lara</li>
+            <li>Muthiah Muralitharan</li>
+            <li>Jacques Kallis</li>
+            <li>Imran Khan</li>
+        </ul>
+        <b>To know more about the players click on the link below.</b><br>
+        <a href="https://advicesacademy.com/sports/best-cricket-player/">best-cricket-player</a>
+    </body>
+</html>
