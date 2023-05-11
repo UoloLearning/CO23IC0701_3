@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <title>
+            My Favourite Pastimes!
+        </title>
+    </head>
+    <body>
+        Here is a list of my favourite pastimes:
+        <ol type="a">
+            <li><b>Listening to music</b></li>
+            <li><i>Gardening</i></li>
+            <li><i>Story books</i></li>
+            <li><u>Chatting online</u></li>
+            <li>Playing games</li>
+            <li>Riding bicycle</li>
+            <li><b>Watching TV</b></li>
+
+        </ol>
+        <img src="https://th.bing.com/th/id/OIP.jp38cIsJVuwlPZ7Fp6CckQHaD4?pid=ImgDet&rs=1">
+    </body>
+</html>
