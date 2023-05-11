@@ -1,1 +1,24 @@
 
+<html>
+    <head>
+        <title>
+            Know me Better
+        </title>
+    </head>
+    <body>
+        Hi! If you want to know about me, just explore my web page.
+        <h2>Sports I love: </h2>
+        <ol>
+            <li id="My favourite">Cricket</li>
+            <li>Football</li>
+            <li>Badminton</li>
+            <li>Basketball</li>
+            <li>Table Tennis</li>
+        </ol>
+        <h4> Here is a link to the information about the outdoor games:  </h4>
+       
+        <a href = "https://www.javatpoint.com/list-of-sports"> Sports I like </a>
+        <br>
+        <a href="#My favourite"> My favourite game in the list </a>
+    </body>
+</html>
